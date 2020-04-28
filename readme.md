@@ -9,5 +9,6 @@ _**Реализовать построение дерева из массива 
 код из .env.example и поменить данные на нужные... 
 (APP_URL, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD)
 4) php artisan migrate
+5) php artisan key:generate
 
 Демо-версия: http://items.s96797r5.beget.tech/
